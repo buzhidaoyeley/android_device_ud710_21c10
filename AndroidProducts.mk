@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_ud710_21c10.mk
+    $(LOCAL_DIR)/twrp_ud710_21c10.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_ud710_21c10-user \
-    omni_ud710_21c10-userdebug \
-    omni_ud710_21c10-eng
+    twrp_ud710_21c10-user \
+    twrp_ud710_21c10-userdebug \
+    twrp_ud710_21c10-eng
